@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Pracownicy";
+}
+
+<div class="table-responsive m-4 d-flex justify-content-center">
+    <div class="w-75 d-flex flex-column align-items-center">
+        <div class="row w-100 mb-3 align-items-center">
+            <div class="col text-center">
+                <h3 class="mb-0">Wszystkie Pracownicy</h3>
+            </div>
+            <div class="col-auto ms-auto">
+                <a asp-action="Create" class="btn btn-lg btn-dark border-dark btn-outline-light">Dodaj nową</a>
+            </div>
+        </div>
+
+        <table class="table rounded table-hover table-dark text-md-center">
+            <thead>
+                <tr class="h4">
+                    <th>ID</th>
+                    <th>Imie</th>
+                    <th>Nazwisko</th>
+                    <th>Adres</th>
+                    <th>Telefon</th>
+                    <th>Numer konta</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody class="h6">
+                <tr>
+                    <td>1</td>
+                    <td>Jan</td>
+                    <td>Kowalski</td>
+                    <td>ul. Warszawska 12, Warszawa</td>
+                    <td>+48 500 123 456</td>
+                    <td>12 3456 7890 1234 5678 9012 3456</td>
+                    <td>
+                        <a asp-action="Edit" class="btn btn-md btn-light border-light btn-outline-dark">Edytuj</a>
+                        <a asp-action="Delete" class="btn btn-md btn-light border-light btn-outline-dark">Usuń</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Anna</td>
+                    <td>Nowak</td>
+                    <td>ul. Krakowska 45, Kraków</td>
+                    <td>+48 600 987 321</td>
+                    <td>98 7654 3210 9876 5432 1098 7654</td>
+                    <td>
+                        <a asp-action="Edit" class="btn btn-md btn-light border-light btn-outline-dark">Edytuj</a>
+                        <a asp-action="Delete" class="btn btn-md btn-light border-light btn-outline-dark">Usuń</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Piotr</td>
+                    <td>Wiśniewski</td>
+                    <td>ul. Gdańska 8, Gdańsk</td>
+                    <td>+48 511 223 344</td>
+                    <td>76 5432 1098 7654 3210 9876 5432</td>
+                    <td>
+                        <a asp-action="Edit" class="btn btn-md btn-light border-light btn-outline-dark">Edytuj</a>
+                        <a asp-action="Delete" class="btn btn-md btn-light border-light btn-outline-dark">Usuń</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

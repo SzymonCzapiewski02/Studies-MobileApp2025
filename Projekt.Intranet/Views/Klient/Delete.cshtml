@@ -1,0 +1,30 @@
+﻿@model Projekt.Intranet.Models.CMS.Klient
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<div class="container mt-5">
+    <div class="card shadow rounded-4">
+        <div class="card-header bg-dark text-white rounded-top-4">
+            <h2 class="mb-0">Potwierdzenie usunięcia</h2>
+        </div>
+
+        <div class="card-body">
+            <p class="fs-5">Czy na pewno chcesz usunąć ten rekord?</p>
+            <dl class="row mb-4">
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Imie)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Imie)</dd>
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Nazwisko)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Nazwisko)</dd>
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.NumerTelefonu)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.NumerTelefonu)</dd>
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Email)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Email)</dd>
+            </dl>
+            <form asp-action="Delete" class="d-flex gap-3">
+                <a asp-action="Index" class="btn btn-dark btn-lg border-dark btn-outline-light">Anuluj</a>
+                <button type="submit" class="btn btn-dark btn-lg border-dark btn-outline-light">Usuń</button>
+            </form>
+        </div>
+    </div>
+</div>

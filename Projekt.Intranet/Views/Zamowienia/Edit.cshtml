@@ -1,0 +1,31 @@
+﻿@model Projekt.Intranet.Models.Sklep.Zamowienia
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="d-flex justify-content-center align-items-center flex-column">
+    <h2 class="mt-4">Edytowanie</h2>
+    <div class="col-md-6">
+        <form asp-action="Edit" class="needs-validation text-white">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdZamowienia" />
+            <div class="form-group">
+                <label asp-for="IdKlient" class="form-label col-form-label-lg text-dark"></label>
+                <select asp-for="IdKlient" class="form-select form-select-lg border-light btn-dark" asp-items="ViewBag.IdKlient"></select>
+                <span asp-validation-for="IdKlient" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdProduktu" class="form-label col-form-label-lg text-dark"></label>
+                <select asp-for="IdProduktu" class="form-select form-select-lg border-light btn-dark" asp-items="ViewBag.IdProduktu"></select>
+                <span asp-validation-for="IdProduktu" class="text-danger"></span>
+            </div>
+            <div class="d-flex justify-content-between mb-3">
+                <a asp-action="Index" class="btn btn-dark btn-lg border btn-outline-light">Back to List</a>
+                <input type="submit" value="Save" class="btn btn-dark border-dark btn-lg btn-outline-light" />
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

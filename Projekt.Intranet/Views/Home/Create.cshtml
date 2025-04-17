@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Create-Rezerwacje";
+}
+<div class="d-flex justify-content-center align-items-center">
+    <div class="col-md-6">
+        <form asp-action="Create" class="needs-validation text-white" novalidate>
+
+            <div class="mb-4">
+                <label class="form-label text-dark">Klient</label>
+                <select class="form-select form-select-lg border-light btn-dark" asp-items="ViewBag.Klienci">
+                    <option value="">Jan Kowal</option>
+                    <option value="">Jan Nowal</option>
+                    <option value="">Jan Kowalski</option>
+                </select>
+                <span class="text-danger"></span>
+            </div>
+
+            <div class="mb-4">
+                <label class="form-label text-dark">Data i godzina</label>
+                <input type="datetime-local" class="form-control form-control-lg border-light btn-dark" />
+                <span class="text-danger"></span>
+            </div>
+
+            <div class="mb-4">
+                <label class="form-label text-dark">Status</label>
+                <select class="form-select form-select-lg border-light btn-dark">
+                    <option value="Zaplanowana">Zaplanowana</option>
+                    <option value="Zakończona">Zakończona</option>
+                    <option value="Anulowana">Anulowana</option>
+                </select>
+                <span class="text-danger"></span>
+            </div>
+
+            <div class="d-flex justify-content-end">
+                <button type="submit" class="btn btn-dark btn-lg">Zapisz</button>
+            </div>
+
+        </form>
+    </div>
+</div>

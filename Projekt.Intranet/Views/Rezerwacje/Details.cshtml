@@ -1,0 +1,48 @@
+﻿@model Projekt.Intranet.Models.CMS.Rezerwacje
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Rezerwacje</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Klient)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Klient.Imie +" "+ model.Klient.Nazwisko)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TattoArtists)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TattoArtists.Imie + " " + model.TattoArtists.Przydomek + " " + model.TattoArtists.Nazwisko)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Godzina)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Godzina)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Uwagi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Uwagi)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdRezerwacja">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

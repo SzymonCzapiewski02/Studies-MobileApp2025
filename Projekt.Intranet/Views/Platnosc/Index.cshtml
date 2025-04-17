@@ -1,0 +1,63 @@
+﻿@using Projekt.Intranet.Models.CMS
+@model IEnumerable<Platnosc>
+
+@{
+    ViewData["Title"] = "Płatnosci";
+}
+<div class="table-responsive m-4 col-sm-4 col-lg-12 d-flex justify-content-center">
+    <div class="w-75 d-flex flex-column align-items-center">
+        <div class="row w-100 mb-3 align-items-center">
+            <div class="col text-center">
+                <h3 class="mb-0 h2">Płatnosci</h3>
+            </div>
+            <div class="col-auto ms-auto">
+                <a asp-action="Create" class="btn btn-lg btn-dark border-dark btn-outline-light">Dodaj nową</a>
+            </div>
+        </div>
+
+        <table class="table rounded table-hover table-dark text-md-center">
+            <thead>
+                <tr class="h4">
+                    <th>
+                        @Html.DisplayNameFor(model => model.IdRezerwacja)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Kwota)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Data)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MetodaPlatnosci)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody class="h5">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.IdRezerwacja)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Kwota)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Data)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MetodaPlatnosci)
+                        </td>
+                        <td>
+                            <a asp-action="Edit" class="btn btn-md btn-light border-light btn-outline-dark" asp-route-id="@item.IdPlatnosc">Edit</a> |
+                            <a asp-action="Delete" class="btn btn-md btn-light border-light btn-outline-dark" asp-route-id="@item.IdPlatnosc">Delete</a>
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

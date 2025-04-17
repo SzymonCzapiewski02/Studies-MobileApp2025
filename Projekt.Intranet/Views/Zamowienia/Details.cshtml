@@ -1,0 +1,30 @@
+﻿@model Projekt.Intranet.Models.Sklep.Zamowienia
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Zamowienia</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Klient)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Klient.Imie +" "+ model.Klient.Nazwisko)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Produkt)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Produkt.Nazwa)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdZamowienia">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

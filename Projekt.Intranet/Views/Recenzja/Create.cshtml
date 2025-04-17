@@ -1,0 +1,42 @@
+﻿@model Projekt.Intranet.Models.Sklep.Recenzja
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="d-flex justify-content-center align-items-center flex-column">
+    <h2 class="mt-4">Dodawanie</h2>
+    <div class="col-md-6">
+        <form asp-action="Create" class="needs-validation text-white" novalidate>
+            <div class="form-group">
+                <label asp-for="IdKlient" class="form-label col-form-label-lg text-dark"></label>
+                <select asp-for="IdKlient" class="form-select form-select-lg border-light btn-dark" asp-items="ViewBag.IdKlient"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdTattoArtists" class="form-label col-form-label-lg text-dark"></label>
+                <select asp-for="IdTattoArtists" class="form-select form-select-lg border-light btn-dark" asp-items="ViewBag.IdTattoArtists"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Wartosc" class="form-label col-form-label-lg text-dark"></label>
+                <input asp-for="Wartosc" class="form-control form-control-lg border-light btn-dark" />
+                <span asp-validation-for="Wartosc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Komentarz" class="form-label col-form-label-lg text-dark"></label>
+                <input asp-for="Komentarz" class="form-control form-control-lg border-light btn-dark" />
+                <span asp-validation-for="Komentarz" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Data" class="form-label col-form-label-lg text-dark"></label>
+                <input asp-for="Data" class="form-control form-control-lg border-light btn-dark" />
+                <span asp-validation-for="Data" class="text-danger"></span>
+            </div>
+            <div class="d-flex justify-content-between mb-3">
+                <a asp-action="Index" class="btn btn-dark btn-lg">Back to List</a>
+                <input type="submit" value="Create" class="btn btn-dark btn-lg" />
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
