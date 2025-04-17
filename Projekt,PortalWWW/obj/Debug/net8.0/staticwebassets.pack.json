@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Projekt.PortalWWW.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Projekt.PortalWWW.q7njytawaw.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\RegulaminPraktykZawodowych_senat26092024.pdf",
+      "PackagePath": "staticwebassets\\Foto\\RegulaminPraktykZawodowych_senat26092024.pdf"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\koszulki1.png",
+      "PackagePath": "staticwebassets\\Foto\\koszulki1.png"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\logo.png",
+      "PackagePath": "staticwebassets\\Foto\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\salon1.jpg",
+      "PackagePath": "staticwebassets\\Foto\\salon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\salon2.jpg",
+      "PackagePath": "staticwebassets\\Foto\\salon2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\tatto1.png",
+      "PackagePath": "staticwebassets\\Foto\\tatto1.png"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\tatto2.png",
+      "PackagePath": "staticwebassets\\Foto\\tatto2.png"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\tatto3.png",
+      "PackagePath": "staticwebassets\\Foto\\tatto3.png"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\voucher1.jpg",
+      "PackagePath": "staticwebassets\\Foto\\voucher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\wall1.jpg",
+      "PackagePath": "staticwebassets\\Foto\\wall1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\wall2.jpg",
+      "PackagePath": "staticwebassets\\Foto\\wall2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\wall3.jpg",
+      "PackagePath": "staticwebassets\\Foto\\wall3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\wall4.jpg",
+      "PackagePath": "staticwebassets\\Foto\\wall4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\Foto\\wall5.jpg",
+      "PackagePath": "staticwebassets\\Foto\\wall5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\palma.DESKTOP-4FODDRD\\OneDrive\\Pulpit\\PBAB\\ProjektySC\\Projekt.PortalWWW\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Projekt.PortalWWW.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Projekt.PortalWWW.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Projekt.PortalWWW.props",
+      "PackagePath": "build\\Projekt.PortalWWW.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Projekt.PortalWWW.props",
+      "PackagePath": "buildMultiTargeting\\Projekt.PortalWWW.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Projekt.PortalWWW.props",
+      "PackagePath": "buildTransitive\\Projekt.PortalWWW.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
