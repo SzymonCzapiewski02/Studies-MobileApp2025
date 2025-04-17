@@ -1,0 +1,11 @@
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\bin\Debug\net8.0\FirmaData.deps.json
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\bin\Debug\net8.0\FirmaData.dll
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\bin\Debug\net8.0\FirmaData.pdb
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\obj\Debug\net8.0\FirmaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\obj\Debug\net8.0\FirmaData.AssemblyInfoInputs.cache
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\obj\Debug\net8.0\FirmaData.AssemblyInfo.cs
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\obj\Debug\net8.0\FirmaData.csproj.CoreCompileInputs.cache
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\obj\Debug\net8.0\FirmaData.dll
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\obj\Debug\net8.0\refint\FirmaData.dll
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\obj\Debug\net8.0\FirmaData.pdb
+C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\FirmaData\obj\Debug\net8.0\ref\FirmaData.dll
