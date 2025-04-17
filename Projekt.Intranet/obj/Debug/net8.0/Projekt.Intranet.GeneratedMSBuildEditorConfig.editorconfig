@@ -1,0 +1,277 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Projekt.Intranet
+build_property.RootNamespace = Projekt.Intranet
+build_property.ProjectDir = C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\Projekt.Intranet\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\palma.DESKTOP-4FODDRD\OneDrive\Pulpit\PBAB\ProjektySC\Projekt.Intranet
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Galeria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Galeria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Galeria/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Galeria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Galeria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Home/Pracownicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmFjb3duaWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Home/Rezerwacje.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXplcndhY2plLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Klient/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Klient/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Klient/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Klient/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Klient/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Logowanie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nb3dhbmllXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Platnosc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG5vc2NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Platnosc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG5vc2NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Platnosc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG5vc2NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Platnosc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG5vc2NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Platnosc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG5vc2NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Produkt/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVrdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Produkt/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVrdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Produkt/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVrdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Produkt/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVrdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Produkt/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVrdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Recenzja/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56amFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Recenzja/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56amFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Recenzja/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56amFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Recenzja/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56amFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Recenzja/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56amFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Rezerwacje/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ3YWNqZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Rezerwacje/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ3YWNqZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Rezerwacje/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ3YWNqZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Rezerwacje/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ3YWNqZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Rezerwacje/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ3YWNqZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Shared/_LogowanieLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dvd2FuaWVMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/TattoArtist/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0dG9BcnRpc3RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/TattoArtist/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0dG9BcnRpc3RcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/TattoArtist/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0dG9BcnRpc3RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/TattoArtist/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0dG9BcnRpc3RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/TattoArtist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0dG9BcnRpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Tatto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0dG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Tatto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0dG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Tatto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0dG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Tatto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0dG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Tatto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0dG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Zamowienia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFtb3dpZW5pYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Zamowienia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFtb3dpZW5pYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Zamowienia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFtb3dpZW5pYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Zamowienia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFtb3dpZW5pYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Zamowienia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFtb3dpZW5pYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palma.DESKTOP-4FODDRD/OneDrive/Pulpit/PBAB/ProjektySC/Projekt.Intranet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-faztdmkjqd
